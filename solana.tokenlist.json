@@ -1,11 +1,27 @@
 {
   "name": "Polebrick Token List",
-  "tags": {
-    "memecoin": {},
-    "community": {},
-    "polebrick": {}
-  },
+  "logoURI": "",
+  "keywords": ["polebrick", "memecoin", "solana"],
   "timestamp": "2025-04-23T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "memecoin": {
+      "name": "Memecoin",
+      "description": "Meme-based token"
+    },
+    "community": {
+      "name": "Community",
+      "description": "Community-driven token"
+    },
+    "polebrick": {
+      "name": "Polebrick",
+      "description": "Official Polebrick Token"
+    }
+  },
   "tokens": [
     {
       "chainId": 101,
