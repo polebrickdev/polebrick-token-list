@@ -25,11 +25,11 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "Euy55L5tR25VLZs55yUJFvTFf3BRvc26HnRtVgCveuBb",
+      "address": "3D66RfuzGJfREMDvmU2Tpu8hvr4fpnFEKQ1ZfuSr4bBP",
       "symbol": "PLBRK",
       "name": "Polebrick",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/polebrickdev/polebrick-token-list/main/assets/mainnet/Euy55L5tR25VLZs55yUJFvTFf3BRvc26HnRtVgCveuBb.png",
+      "logoURI": "https://raw.githubusercontent.com/polebrickdev/polebrick-token-list/main/assets/mainnet/3D66RfuzGJfREMDvmU2Tpu8hvr4fpnFEKQ1ZfuSr4bBP.png",
       "tags": ["memecoin", "community", "polebrick"]
     }
   ]
