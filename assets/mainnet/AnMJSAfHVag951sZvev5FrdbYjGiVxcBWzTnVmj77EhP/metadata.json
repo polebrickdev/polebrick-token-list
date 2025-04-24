@@ -1,0 +1,14 @@
+{
+  "name": "Polebrick",
+  "symbol": "PLBRK",
+  "description": "La memecoin Polebrick su Solana",
+  "image": "https://raw.githubusercontent.com/polebrickdev/polebrick-token-list/main/assets/mainnet/AnMJSAfHVag951sZvev5FrdbYjGiVxcBWzTnVmj77EhP/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
